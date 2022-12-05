@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\bin\Debug\net6.0\Grafo.exe
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\bin\Debug\net6.0\Grafo.deps.json
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\bin\Debug\net6.0\Grafo.runtimeconfig.json
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\bin\Debug\net6.0\Grafo.dll
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\bin\Debug\net6.0\Grafo.pdb
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.dll
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\refint\Grafo.dll
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.pdb
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\Grafo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\MATERIAS\graph\graph\obj\Debug\net6.0\ref\Grafo.dll
